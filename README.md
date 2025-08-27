@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @annKimani-ICS
 - 👀 I’m interested in Network Engineering, Cybersecurity and IOT.
-- 🌱 I’m currently learning Python and Kotlin.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on any interesting projects.
-- 📫 How to reach me ann.wangari@strathmore.edu
+- 📫 How to reach me awlkimani@gmail.com
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: Ann is a great problem solver - not just with tech issues.
 
